@@ -6,14 +6,11 @@
 - [ ] **Dar una Charla Técnica:** 
 - [ ] **Dar un Code Lab**
 
-## Título
-Dale un título significativo
-
 ## Descripción de la Charla Técnica o Code Lab
 Describe tu charla o code lab en menos de 400 palabras, si es posible
 
 ## Acerca de Ti
-Escribe un párrafo corto con una breve descripción tuya: tu profesión, ocupación actual, pasatiempos, etc
+Escribe un párrafo corto con una breve descripción tuya en tercera persona: tu profesión, ocupación actual, pasatiempos, etc
 
 ## Username en Twitter
 @fulanito

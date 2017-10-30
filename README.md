@@ -30,5 +30,5 @@ Si quieres dirigir, organizar, participar junto con la Comunidad Angular desde t
 * Meetup: [https://www.meetup.com/Angular-Bolivia](https://www.meetup.com/Angular-Bolivia/)
 * Twitter: [https://twitter.com/angularBolivia](https://twitter.com/angularBolivia)
 * Facebook: [https://www.facebook.com/angular.bolivia](https://www.facebook.com/angular.bolivia)
-* Slack: [https://angularbolivia.slack.com](https://angularbolivia.slack.com) Para participar de nuestro Team en Slack necesitas una invitación. Envíanos un mensaje privado por Twitter, un inbox por Facebook o un mensaje por el Meetup. Te enviaremos la invitación lo más rápido posible.
+* Slack: [https://slack.angularbolivia.com](https://slack.angularbolivia.com) Para participar de nuestro Team en Slack necesitas una invitación. Envíanos un mensaje privado por Twitter, un inbox por Facebook o un mensaje por el Meetup. Te enviaremos la invitación lo más rápido posible.
 * [Telegram Angular Bolivia](https://t.me/joinchat/AAAAAArgKJMtaPryW1DTuQ)

@@ -1,4 +1,4 @@
-# Angular Bolivia evento 2017-Noviembre! 
+# Meetup - 11 de Noviembre de 2017 
 
 ### Traduciendo Aplicaciones Angular con NG-Translate
 Fernando Sejas

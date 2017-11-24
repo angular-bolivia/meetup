@@ -14,14 +14,14 @@ Jose Ignacio Cabrera
 
 [Slides](http://slides.com/joseignaciocabrerabustamante/deck/#/)
 
-### Dashboards con Dinámicos Angular
-Oscar Gonzales
+### Dashboard con Componentes Dinámicos
+Oscar González
 
 [@Oscar_sgc](https://twitter.com/Oscar_sgc)
 
 [Slides](https://goo.gl/ALT7AG) - [Demo](https://goo.gl/r9ASfz)
 
-### Angular + Meteor RealTime!
+### Angular + Meteor ¡Real Time!
 Kenji Lozano
 
 [@kenji_lozano](https://twitter.com/kenji_lozano)
@@ -29,6 +29,8 @@ Kenji Lozano
 [Slides](http://slides.com/kenji_lozano/deck/fullscreen) - [Demo](https://github.com/klozano/angular-meteor-chat)
 
 ### Creando contenido dinámico con Angular
-Raúl Giménez
+Raúl Jiménez
 
 [@elecash](https://twitter.com/elecash)
+
+[Slides](http://slides.com/elecash/creando-contenido-dinamico-con-angular#/) - [Demo](https://github.com/Elecash/dynamic-content)

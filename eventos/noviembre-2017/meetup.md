@@ -1,4 +1,4 @@
-Charlas 
+#Angular Bolivia evento 2017-Noviembre! 
 
 ###Traduciendo Aplicaciones Angular con NG-Translate
 Fernando Sejas
@@ -27,7 +27,3 @@ Kenji Lolano
 ###Creando contenido dinámico con Angular
 Raúl Giménez
 @elecash
-
-
-
-

@@ -5,6 +5,15 @@
 
 - [ ] **Dar una Charla Técnica:** 
 - [ ] **Dar un Code Lab**
+- [ ] **Charla corta**
+
+
+## Nivel
+`(Selecciona con una "x" => [x])`
+
+- [ ] **Básico:** 
+- [ ] **Intermedio**
+- [ ] **Avanzado**
 
 ## Descripción de la Charla Técnica o Code Lab
 Describe tu charla o code lab en menos de 400 palabras, si es posible
